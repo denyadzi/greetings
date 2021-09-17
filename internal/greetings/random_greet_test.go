@@ -1,4 +1,4 @@
-package random_greet
+package greetings
 
 import "testing"
 

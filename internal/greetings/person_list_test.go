@@ -1,4 +1,4 @@
-package person_names
+package greetings
 
 import (
 	"testing"
